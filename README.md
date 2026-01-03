@@ -61,11 +61,12 @@ With over **12 years of experience** in software engineering, I specialize in bu
 
 ### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
-**Development Practices:** Clean Code · Unit Testing · Code Reviews · Agile/Scrum · CI/CD
+**Development Practices:** Clean Code · Unit Testing · Code Reviews · Agile/Scrum · CI/CD · AI-Assisted Development
 
 ---
 
@@ -74,6 +75,7 @@ With over **12 years of experience** in software engineering, I specialize in bu
 - 🥇 **Multiple "Pat on the Back" awards** for exceptional delivery and quality
 - 📈 **12+ years** of progressive experience from Web Developer to Senior Tech Lead
 - 👥 **Active mentor** conducting hands-on sessions on Angular architecture, clean code, and testing
+- 🤖 **GitHub Copilot advocate** with 2+ years of experience; conducted session at PuneUserGroup on building faster with accuracy
 - 🎯 **Zero-bug advocate** with a proven track record of delivering high-quality products
 - 📚 **Technical solution architect** preparing detailed documentation for development teams
 - 🤝 **Collaborative leader** participating in epic and feature discussions with product owners
