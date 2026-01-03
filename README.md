@@ -5,7 +5,7 @@
 ### Senior Tech Lead | Angular & .NET Specialist | Passionate Mentor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-vishwakarma-10950597)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.gautamvishwakarma@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.gautamvishwakarma@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Pune%2C%20India-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Pune)
 
 </div>
@@ -20,7 +20,7 @@ const gautam = {
     company: "Tietoevry",
     experience: "12+ years",
     location: "Pune, Maharashtra, India",
-    expertise: ["Angular", ".NET Core", "SQL Server", "System Architecture"],
+    expertise: ["Angular", ".NET Core", "SQL Server", "System Architecture", "GitHub Copilot"],
     passions: ["Mentoring", "Clean Code", "Problem Solving", "Team Leadership"],
     currentFocus: ["Cloud Architecture", "Generative AI", "Open Source Contribution"],
     motto: "Great code is code that other developers enjoy reading!"
@@ -82,20 +82,6 @@ With over **12 years of experience** in software engineering, I specialize in bu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwa-gautam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-gautam&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishwa-gautam&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - ☁️ **Cloud Architecture** - Azure & AWS certifications
@@ -142,7 +128,7 @@ I believe in:
 I'm always open to interesting conversations about technology, leadership, and innovation!
 
 - 💼 **LinkedIn:** [gautam-vishwakarma](https://www.linkedin.com/in/gautam-vishwakarma-10950597)
-- 📧 **Email:** me.gautamvishwakarma@hotmail.com
+- 📧 **Email:** me.gautamvishwakarma@gmail.com
 - 📍 **Location:** Pune, Maharashtra, India
 - 🌐 **Open to:** Collaboration, Mentoring, Speaking Engagements
 
