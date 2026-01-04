@@ -88,6 +88,7 @@ With over **12 years of experience** in software engineering, I specialize in bu
 - 🤖 **Generative AI** - Integration with .NET applications
 - 🏛️ **System Design** - Advanced architectural patterns
 - 📖 **Open Source** - Contributing to community projects
+- [![roadmap.sh](https://roadmap.sh/card/wide/677a478a70129741a8660f07?variant=dark)](https://roadmap.sh)
 
 ---
 
