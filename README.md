@@ -84,7 +84,7 @@ With over **12 years of experience** in software engineering, I specialize in bu
 
 ## 🌱 Currently Learning
 
-- [![roadmap.sh](https://roadmap.sh/card/tall/677a478a70129741a8660f07?variant=dark&roadmaps=python%2Csystem-design%2Csoftware-design-architecture%2Cdevops%3Fr%3Ddevops-beginner)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/677a478a70129741a8660f07?variant=dark&roadmaps=python%2Csystem-design%2Csoftware-design-architecture%2Cdevops%3Fr%3Ddevops-beginner)](https://roadmap.sh)
 
 ---
 
