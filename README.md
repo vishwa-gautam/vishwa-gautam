@@ -84,11 +84,7 @@ With over **12 years of experience** in software engineering, I specialize in bu
 
 ## 🌱 Currently Learning
 
-- ☁️ **Cloud Architecture** - Azure & AWS certifications
-- 🤖 **Generative AI** - Integration with .NET applications
-- 🏛️ **System Design** - Advanced architectural patterns
-- 📖 **Open Source** - Contributing to community projects
-- [![roadmap.sh](https://roadmap.sh/card/wide/677a478a70129741a8660f07?variant=dark)](https://roadmap.sh)
+- [![roadmap.sh](https://roadmap.sh/card/tall/677a478a70129741a8660f07?variant=dark&roadmaps=python%2Csystem-design%2Csoftware-design-architecture%2Cdevops%3Fr%3Ddevops-beginner)](https://roadmap.sh)
 
 ---
 
