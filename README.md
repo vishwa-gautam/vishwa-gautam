@@ -84,7 +84,7 @@ With over **12 years of experience** in software engineering, I specialize in bu
 
 ## 🌱 Currently Learning
 
-[![roadmap.sh](https://roadmap.sh/card/wide/677a478a70129741a8660f07?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/677a478a70129741a8660f07?variant=dark)](https://roadmap.sh)
 
 ---
 
