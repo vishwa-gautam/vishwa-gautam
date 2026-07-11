@@ -16,9 +16,9 @@
 
 ```typescript
 const gautam = {
-    role: "Senior Tech Lead",
-    company: "Tietoevry",
-    experience: "12+ years",
+    role: "Lead Software Architect",
+    company: "Tieto",
+    experience: "14 years",
     location: "Pune, Maharashtra, India",
     expertise: ["Angular", ".NET Core", "SQL Server", "System Architecture", "GitHub Copilot"],
     passions: ["Mentoring", "Clean Code", "Problem Solving", "Team Leadership"],
